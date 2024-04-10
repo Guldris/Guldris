@@ -1,0 +1,22 @@
+html{
+    background-color: darkkhaki;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: aquamarine;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+p :hover{
+    color: blue;
+}

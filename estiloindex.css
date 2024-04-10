@@ -1,0 +1,50 @@
+h1{
+    background-color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    font-size: 45px
+}
+h2{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+html{
+    background-color: darkkhaki;
+}
+nav{
+    background-color: aquamarine;
+    padding: 0%;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10%;
+}
+a{
+    color: rgb(5, 44, 16);
+}
+nav p{
+    color: lawngreen;
+    margin-bottom: 15%;
+    font-size: 20px;
+}
+nav a{
+    color: rgb(9, 78, 21);
+    padding: 0%;
+    display: inline-block;
+    font-size: 20px;
+}
+nav a:hover{
+    background-color: aqua;
+    color: black;
+    border-radius: 30px;
+}
+p:hover{
+    color: darkblue;
+}
