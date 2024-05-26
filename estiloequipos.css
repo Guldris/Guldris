@@ -24,3 +24,24 @@ p :hover{
 img{
     text-align: center;
 }
+nav{
+    background-color: aquamarine;
+    padding: 2%;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    border-radius: 30px 30px;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: aqua;
+    color: black;
+    border-radius: 30px;
+}
+ol{
+    text-align: center;
+}
